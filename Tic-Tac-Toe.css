@@ -4,12 +4,6 @@ body {
     text-align: center;
 }
 
-hr{
-    width: 500px;
-    height: 3px;
-    background-color: black;
-}
-
 .button {
     display: inline-block;
     padding: 15px 25px;
