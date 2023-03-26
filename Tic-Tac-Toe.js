@@ -1,6 +1,6 @@
 let board;
-let playerA = "⭕";
-let playerB = "❌";
+let playerA = "❌";
+let playerB = "⭕";
 let currentPlayer = playerA;
 let gameOver = false;
 
